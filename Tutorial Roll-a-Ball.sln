@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tutorial Roll-a-Ball", "Tutorial Roll-a-Ball.csproj", "{5AA5C708-B300-3B06-C12D-DE2650A57918}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5AA5C708-B300-3B06-C12D-DE2650A57918}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AA5C708-B300-3B06-C12D-DE2650A57918}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AA5C708-B300-3B06-C12D-DE2650A57918}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AA5C708-B300-3B06-C12D-DE2650A57918}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
